@@ -101,27 +101,27 @@ The goal of this repository is to practice backend engineering, write clean and 
 backend-projects/
 │
 ├── 📁 beginner/
-│   ├── hello-world-api/
-│   ├── express-routing/
-│   ├── rest-api-crud/
-│   ├── notes-api/
-│   ├── todo-api/
-│   ├── calculator-api/
-│   ├── url-shortener-api/
-│   ├── file-upload-api/
-│   └── authentication-basics/
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├──
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └──
 │
 ├── 📁 intermediate/
-│   ├── blog-api/
-│   ├── ecommerce-api/
-│   ├── user-management-api/
-│   ├── jwt-authentication/
-│   ├── role-based-auth/
-│   ├── expense-tracker-api/
-│   ├── inventory-management-api/
-│   ├── job-portal-api/
-│   ├── social-media-api/
-│   └── resume-builder-api/
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └── 
 │
 ├── 📁 advanced/
 │   ├── 
