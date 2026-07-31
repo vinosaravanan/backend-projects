@@ -101,7 +101,7 @@ The goal of this repository is to practice backend engineering, write clean and 
 backend-projects/
 │
 ├── 📁 beginner/
-│   ├── hello-world-api/
+│   ├── 
 │   ├── express-routing/
 │   ├── rest-api-crud/
 │   ├── notes-api/
