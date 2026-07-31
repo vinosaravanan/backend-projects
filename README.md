@@ -124,21 +124,21 @@ backend-projects/
 │   └── resume-builder-api/
 │
 ├── 📁 advanced/
-│   ├── microservices-demo/
-│   ├── realtime-chat-server/
-│   ├── payment-gateway-api/
-│   ├── booking-system-api/
-│   ├── notification-service/
-│   ├── ecommerce-backend/
-│   ├── analytics-service/
-│   ├── cms-api/
-│   ├── learning-management-api/
-│   ├── fintech-api/
-│   ├── graphql-api/
-│   ├── redis-cache-demo/
-│   ├── dockerized-node-app/
-│   ├── websocket-server/
-│   └── api-gateway/
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └── 
 │
 ├── assets/
 │   └── architecture/
